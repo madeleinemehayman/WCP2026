@@ -1,6 +1,6 @@
 # WCP2026
 References from poster
-References (1–8) for WCP Poster 2026 – Madeleine ME Hayman 
+References (1–9) for WCP Poster 2026 – Madeleine ME Hayman 
 
 1.	Afzal M, Siddiqi N, Ahmad B, Afsheen N, Aslam F, Ali A, et al. Prevalence of Overweight and Obesity in People With Severe Mental Illness: Systematic Review and Meta-Analysis. Front Endocrinol. 2021;12:769309.  
 
