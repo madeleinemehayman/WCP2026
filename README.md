@@ -12,7 +12,7 @@ References (1–8) for WCP Poster 2026 – Madeleine ME Hayman
 
 5.	Meer D van der, Shadrin AA, Stinson SE, Koch E, Rokicki J, Rahman Z, et al. Divergent patterns of genetic overlap between severe mental disorders and metabolic markers [Internet]. medRxiv; 2024 [cited 2025 Aug 5]. p. 2024.11.04.24316693. Available from: https://www.medrxiv.org/content/10.1101/2024.11.04.24316693v1 
 
-		Winkler TW, Günther F, Höllerer S, Zimmermann M, Loos RJ, Kutalik Z, et al. A joint view on genetic variants for adiposity differentiates subtypes with distinct metabolic implications. Nat Commun. 2018 May 16;9(1):1946.  
+6. Winkler TW, Günther F, Höllerer S, Zimmermann M, Loos RJ, Kutalik Z, et al. A joint view on genetic variants for adiposity differentiates subtypes with distinct metabolic implications. Nat Commun. 2018 May 16;9(1):1946.  
 
 7.	Wray NR, Ripke S, Mattheisen M, Trzaskowski M, Byrne EM, Abdellaoui A, et al. Genome-wide association analyses identify 44 risk variants and refine the genetic architecture of major depression. Nat Genet. 2018 May;50(5):668–81.  
 
